@@ -1,0 +1,2 @@
+Why State File need to store in remote location and why state file locking is important ?
+
